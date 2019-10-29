@@ -6,13 +6,10 @@ Espero que sea de utilidad, un saludo
 
 
 Inicio:
-
-![ScreenShot](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-JUGADORES-PHP/inicio.png)
+![ScreenShot](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-JUGADORES-PHP/demo/inicio.png)
 
 
 Desarrollo:
-
-
 ![ScreenShot](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-JUGADORES-PHP/demo/buscar.png)
 
 
