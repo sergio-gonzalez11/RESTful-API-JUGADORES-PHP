@@ -12,7 +12,8 @@ Inicio:
 
 
 Desarrollo:
-![ScreenShot](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-JUGADORES-PHP/demo/buscar.png)
+
+![ScreenShot](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-JUGADORES-PHP/master/demo/buscar.png)
 
 
 
