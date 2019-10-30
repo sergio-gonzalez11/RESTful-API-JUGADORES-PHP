@@ -8,7 +8,7 @@ Para generar tu token entra aqui - https://www.football-data.org/
 
 Inicio:
 
-![Preview](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-JUGADORES-PHP/demo/inicio.png)
+![Preview](https://raw.githubusercontent.com/sergio-gonzalez11/RESTful-API-JUGADORES-PHP/master/demo/inicio.png)
 
 
 Desarrollo:
